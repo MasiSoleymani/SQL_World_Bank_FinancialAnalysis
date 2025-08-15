@@ -1,19 +1,14 @@
-This project uses SQL to explore and analyze loan disbursement data from the **International Development Association (IDA)**.
-## Key Insights Extracted
-- View of the entire dataset.
-- Transaction volume per country.
-- Countries with the highest and lowest loan frequencies.
-- In-depth focus on **India**:
-  - Top borrowing entities
-  - Credit status breakdown
-  - Number of loans by credit type
-  - Total disbursed loan amount
-  - Most expensive project
-  - Borrower activity by project count
-## Purpose
-These SQL queries help reveal trends in international credit distribution and identify key players and financial behaviors by region — with special attention to India.
+This project uses SQL to explore and analyze loan disbursement data from the International Development Association (IDA).
 
----
+The analysis includes:
+	•	Viewing the entire dataset
+	•	Counting transactions per country
+	•	Identifying countries with the highest and lowest loan frequencies
+	•	Analyzing India’s:
+	•	Key borrowers
+	•	Credit status distribution
+	•	Total disbursed amount
+	•	Most expensive project
+	•	Borrower frequency by project count
 
-**Tools Used**: SQL  
-**Source Table**: `IDA_Data.ida_new`
+The queries help uncover regional trends and credit patterns in global loan allocations, with a focused lens on India.
